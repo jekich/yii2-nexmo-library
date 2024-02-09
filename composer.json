@@ -2,7 +2,6 @@
     "name": "jekich/yii2-nexmo-library",
     "description": "The Nexmo library for the Yii framework",
     "keywords": [
-        "2amigos",
         "yii",
         "yii2",
         "yii 2",
@@ -10,18 +9,10 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-nexmo-library",
-    "authors": [
-        {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
-            "role": "Developer"
-        }
-    ],
+    "homepage": "https://github.com/jekich/yii2-nexmo-library",
     "support": {
-        "issues": "https://github.com/2amigos/yii2-nexmo-library/issues",
-        "source": "https://github.com/2amigos/yii2-nexmo-library"
+        "issues": "https://github.com/jekich/yii2-nexmo-library/issues",
+        "source": "https://github.com/jekich/yii2-nexmo-library"
     },
     "require": {
         "php": ">=5.5",

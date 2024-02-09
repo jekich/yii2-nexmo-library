@@ -18,7 +18,7 @@ use yii\helpers\Inflector;
  * @link http://www.2amigos.us/
  * @package dosamigos\nexmo
  */
-class Object extends \yii\base\Object
+class BaseObject extends \yii\base\BaseObject
 {
     /**
      * @var string the sender id of the message

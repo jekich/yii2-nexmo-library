@@ -19,7 +19,7 @@ namespace dosamigos\nexmo;
  * @link http://www.2amigos.us/
  * @package dosamigos\nexmo
  */
-class InboundMessage extends Object
+class InboundMessage extends BaseObject
 {
     /**
      * @var string Expected values are: text, unicode (URL encoded, valid for standard GSM, Arabic, Chinese ...

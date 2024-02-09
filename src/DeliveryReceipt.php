@@ -21,7 +21,7 @@ use yii\helpers\ArrayHelper;
  * @link http://www.2amigos.us/
  * @package dosamigos\nexmo
  */
-class DeliveryReceipt extends Object
+class DeliveryReceipt extends BaseObject
 {
     /**
      * Message arrived to handset.
